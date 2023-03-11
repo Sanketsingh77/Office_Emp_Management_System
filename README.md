@@ -23,20 +23,29 @@ A Django CRUD App
 
 ![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/updated_table.png)
 
-5. Remove an Employee
+6. Remove an Employee
 
 ![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/Remove_emp.png)
 
-6. Employee removed Successfully
+7. Employee removed Successfully
 
 ![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/removed_message.png)
 
-7. Updated Employee Details after deletion
+8. Updated Employee Details after deletion
 
 ![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/updated2_table.png)
 
-![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/updated2_table.png)
 
-8. Filter
+9. Filter Employee Details
+
+![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/filter_emp.png)
+
+10. from `emps = emps.filter(role__name__contains = role) `
+
+![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/filter_results.png)
+
+11. Employee Details 
+
+![image](https://github.com/Sanketsingh77/Office_Emp_Management_System/blob/main/screenshots/admin.png)
 
 
